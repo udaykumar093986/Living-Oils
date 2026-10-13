@@ -1,0 +1,8 @@
+{
+  "appId": "com.livingoils.store",
+  "appName": "Living Oils",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
